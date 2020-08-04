@@ -1,0 +1,117 @@
+{
+    "title": "PS4",
+    "date": "04/08/2020 11:31:58",
+    "best_item": {
+        "asin": "B08BFX2WP6",
+        "url": "http://www.amazon.de/dp/B08BFX2WP6",
+        "title": "PS4 Slim 500Gb schwarz Playstation 4 Konsole + The Last Of Us 2",
+        "seller": "Sony Playstation 4",
+        "price": 379.0
+    },
+    "currency": "\u20ac",
+    "filters": {
+        "min": "275",
+        "max": "650"
+    },
+    "base_link": "http://www.amazon.de/",
+    "products": [
+        {
+            "asin": "B0878S4HZV",
+            "url": "http://www.amazon.de/dp/B0878S4HZV",
+            "title": "PS4 Slim 1TB schwarz Playstation 4 Konsole + Ratchet & Clank + Crash Team Racing: Nitro Fueled",
+            "seller": "Playstation 4",
+            "price": 415.5
+        },
+        {
+            "asin": "B07XYCQX58",
+            "url": "http://www.amazon.de/dp/B07XYCQX58",
+            "title": "SONY - Playstation VR Mega Pack V2 (UK) /PS4 (1 GAMES)",
+            "seller": "Sony",
+            "price": 531.28
+        },
+        {
+            "asin": "B086VV1QSV",
+            "url": "http://www.amazon.de/dp/B086VV1QSV",
+            "title": "PS4 Slim 1TB schwarz Playstation 4 Konsole + FIFA 20 + Gran Turismo Sport \"GT Sport\"",
+            "seller": "Sony Playstation 4",
+            "price": 429.99
+        },
+        {
+            "asin": "B08BHTLKHC",
+            "url": "http://www.amazon.de/dp/B08BHTLKHC",
+            "title": "PS4 PRO The Last Of Us 2 Limited Edition schwarz 1Tb Playstation 4 Konsole",
+            "seller": "Sony Playstation 4",
+            "price": 525.5
+        },
+        {
+            "asin": "B0876HDPVX",
+            "url": "http://www.amazon.de/dp/B0876HDPVX",
+            "title": "PS4 Slim 1TB schwarz Playstation 4 Konsole + Minecraft \"Bedrock\"",
+            "seller": "Playstation 4",
+            "price": 389.9
+        },
+        {
+            "asin": "B081QMK8HY",
+            "url": "http://www.amazon.de/dp/B081QMK8HY",
+            "title": "PS4 PRO Playstation 4 Konsole + Fortnite Neo Versa [Neuses Modell]",
+            "seller": "Sony Playstation 4",
+            "price": 429.9
+        },
+        {
+            "asin": "B07ZKZ22HH",
+            "url": "http://www.amazon.de/dp/B07ZKZ22HH",
+            "title": "PlayStation VR2 MegaPack 2 Astro Bot + Skyrim V + Resident Evil 7 + Everybody's Golf + VR Worlds + Twin Move Controllers + Kamera V2",
+            "seller": "Sony Playstation 4",
+            "price": 485.5
+        },
+        {
+            "asin": "B08BFX2WP6",
+            "url": "http://www.amazon.de/dp/B08BFX2WP6",
+            "title": "PS4 Slim 500Gb schwarz Playstation 4 Konsole + The Last Of Us 2",
+            "seller": "Sony Playstation 4",
+            "price": 379.0
+        },
+        {
+            "asin": "B07Z7RTHF6",
+            "url": "http://www.amazon.de/dp/B07Z7RTHF6",
+            "title": "PS4 Slim 1TB schwarz Playstation 4 Konsole + FIFA 20 + GTA V Grand Theft Auto 5 Premium Edition",
+            "seller": "Sony Playstation 4",
+            "price": 399.99
+        },
+        {
+            "asin": "B07RSG1B6K",
+            "url": "http://www.amazon.de/dp/B07RSG1B6K",
+            "title": "PlayStation VR2 MegaPack: Skyrim + Doom + WipEout + Astro Bot + VR Worlds + Twin Move Controllers",
+            "seller": "Sony Playstation 4",
+            "price": 475.5
+        },
+        {
+            "asin": "B08C4FQ1QV",
+            "url": "http://www.amazon.de/dp/B08C4FQ1QV",
+            "title": "PlayStation VR2 Marvel's Iron Man VR + VR Worlds + Kamera V2 + Twin Move Kontrollers",
+            "seller": "Sony Playstation 4",
+            "price": 485.5
+        },
+        {
+            "asin": "B07W1GD92X",
+            "url": "http://www.amazon.de/dp/B07W1GD92X",
+            "title": "PlayStation VR2 MegaPack: Skyrim + Doom + WipEout + Astro Bot + VR Worlds + Twin Move Controllers",
+            "seller": "Sony Playstation 4",
+            "price": 479.99
+        },
+        {
+            "asin": "B07YSSSHKN",
+            "url": "http://www.amazon.de/dp/B07YSSSHKN",
+            "title": "Playstation VR2 (CUH-ZVR2) \"Starter Plus Astrobot Pack\" VR Worlds + Astrobot + Kamera V2 + Twin Move Kontrollers",
+            "seller": "Sony Playstation 4",
+            "price": 495.5
+        },
+        {
+            "asin": "B07YSSZB4B",
+            "url": "http://www.amazon.de/dp/B07YSSZB4B",
+            "title": "PlayStation VR2 (CUH-VR2) AstroBot + VR Worlds + Kamera V2",
+            "seller": "Sony Playstation 4",
+            "price": 395.5
+        }
+    ]
+}
